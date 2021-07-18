@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 import com.revature.beans.Cat;
 import com.revature.repos.CatRepo;
 
-
 @Service
 public class CatServiceImpl implements CatService {
 	
