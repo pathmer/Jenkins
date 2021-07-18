@@ -24,4 +24,4 @@ public class SpringBootDataApplication extends SpringBootServletInitializer {
 	}
 
 }
-  //testing
+  //test
